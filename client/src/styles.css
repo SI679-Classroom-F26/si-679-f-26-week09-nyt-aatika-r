@@ -43,6 +43,10 @@
 .brand {
   font-size: 1.15rem;
   margin-right: 1rem;
+  color: #FFCB05;
+  background: #00274C;
+  padding: 0.2rem 0.6rem;
+  border-radius: 6px;
 }
 
 nav button {
