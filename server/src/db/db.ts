@@ -22,4 +22,4 @@ export const disconnect = async (): Promise<void> => {
   }
 };
 
-export const getDb = (): Db => database;import { getMongoUri, getDbName } from '../config.js';import { getMongoUri, getDbName } from '../config.js';
+export const getDb = (): Db => database;
